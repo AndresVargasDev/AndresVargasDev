@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Grooming Argentina](https://helpful-conkies-214a74.netlify.app/)
 
-- 🌱 I’m currently learning **Phyton, TypeScript and the language English**
+- 🌱 I’m currently learning **Phyton, TypeScript and the English language
 
 - 👯 I’m collaborating with [Source Squack](https://github.com/SourceSquack)
 
