@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Phyton, TypeScript and the language English**
 
-- 👯 I’m collaborating with [Source Squack](https://github.com/organizations/SourceSquack)
+- 👯 I’m collaborating with [Source Squack](https://github.com/SourceSquack)
 
 - 📫 How to reach me **AndresVargasDev@gmail.com**
 
