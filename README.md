@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresvargasdev" alt="andresvargasdev" /></a> </p>
 
-- 🔭 I’m currently working on [Grooming Argentina](https://helpful-conkies-214a74.netlify.app/)
+- 🔭 I’m currently working on Marktube Group
 
-- 🌱 I’m currently learning **Phyton, TypeScript and the English language
-
-- 👯 I’m collaborating with [Source Squack](https://github.com/SourceSquack)
+- 🌱 I’m currently learning React, Node Js.
 
 - 📫 How to reach me **AndresVargasDev@gmail.com**
-
-- ⚡ Fun fact **play Valorant with my friends, i'm stucked in silver 2, my friends are so bad but i love them <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
